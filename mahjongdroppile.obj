@@ -1,7 +1,7 @@
 # Blender 5.0.0
 # www.blender.org
 mtllib mahjongdroppile.mtl
-o dice
+o Mesh
 v -0.151865 0.903121 -0.046966
 v -0.155532 0.898441 -0.044058
 v -0.158440 0.903121 -0.047726
