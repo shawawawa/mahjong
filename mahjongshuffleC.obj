@@ -1,7 +1,7 @@
 # Blender 5.0.0
 # www.blender.org
 mtllib mahjongshuffleC.mtl
-o shdrop.002
+o Mesh
 v 0.861331 -0.098140 -0.129237
 v 0.859236 -0.095999 -0.131959
 v 0.857262 -0.100537 -0.127145
