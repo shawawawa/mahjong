@@ -1,7 +1,7 @@
 # Blender 5.0.0
 # www.blender.org
 mtllib mahjonghand.mtl
-o dice.002
+o Mesh
 v -0.100566 0.901437 1.900321
 v -0.099703 0.898690 1.903165
 v -0.095935 0.903726 1.900321
