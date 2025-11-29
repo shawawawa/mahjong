@@ -1,7 +1,7 @@
 # Blender 5.0.0
 # www.blender.org
 mtllib richiisticks.mtl
-o dice.001
+o Mesh
 v 2.214081 0.881439 0.415277
 v 2.212725 0.881428 0.416648
 v 2.182753 0.881176 0.416811
