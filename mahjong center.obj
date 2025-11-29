@@ -1,7 +1,7 @@
 # Blender 5.0.0
 # www.blender.org
 mtllib mahjong center.mtl
-o insideExtra008_2
+o Mesh
 v -0.729328 0.538756 1.060470
 v -0.580188 0.840230 1.150977
 v -0.392992 0.840230 1.227568
